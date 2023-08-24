@@ -1,16 +1,2 @@
-[ 
-  {
-    "relation" : [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
-    ],
-    "target" : {
-      "namespace" : "android_app",
-      "package_name" : "mojaloop.fido2.fido2_client_example",
-      "sha256_cert_fingerprints" : [
-         "DE:8F:1A:96:93:E2:F5:10:3D:19:82:28:B6:D0:D7:3E:2B:B9:E1:95:39:5D:F8:F9:1F:F8:78:D6:A2:9D:7A:A2"
-      ]
-    }
-  }
-]
+[]
 
